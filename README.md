@@ -26,5 +26,6 @@
 | Hrishvith C| 1DA23IS016 |
 | Sourya Raj| 1TU24IS100 |
 | Harshit Raj| 1TU24IS036|
+| Manjesh c k| 1TU24IS402|
 ### Instructions
 Please add your name and USN to the fork and submit a pull request.
